@@ -2,7 +2,7 @@
 publish: true
 permalink: /FMHY.md
 created: 2026-08-26T14:46:57.945Z
-modified: 2026-11-19T03:53:09.890Z
+modified: 2026-11-19T04:38:56.556Z
 tags:
   - Free
   - Foss
@@ -6134,7 +6134,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 - [TrueToneGuitar](https://www.truetoneguitar.co.uk/tools/guitar-practice-routine-generator), [Songsterr](https://www.songsterr.com/) / [Downloader](https://www.songsterr-downloader.com/), [FAChords](https://www.fachords.com/) or [ChordBook](https://chordbook.com/) - Guitar Tools
 - [FretFlip](https://fretflip.com/guitar-scales), [Oolimo](https://www.oolimo.com/en/index.php), [StringScales](https://stringscales.com/), [My Fretboard Trainer](https://myfretboardtrainer.com/home/), [QFGM](https://quinnfetrowsguitarmachines.com/) or [GuitarScale](https://www.guitarscale.org/) - Learn Guitar Scales / Chords
 - [JamStart](https://jamstart.app/) - Spotify Chord Charts
-- [#fretflip](https://fretflip.com/) - Create / Print Guitar Scales & Chord Charts
+- [fretflip](https://fretflip.com/) - Create / Print Guitar Scales & Chord Charts
 - [JustinGuitar](https://www.justinguitar.com/) or [Guitarsix](https://guitarsix.com/) - Guitar Lessons
 - [Ultimate Guitar](https://www.ultimate-guitar.com/) - Guitar Tabs
 - [Chorder](https://www.chorder.com/guitar-chords/) - Guitar Chord Finder

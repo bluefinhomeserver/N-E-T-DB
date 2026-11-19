@@ -1,0 +1,79 @@
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.folder.startsWith("N-E-T-DB")
+    order:
+      - file.name
+      - shelf
+      - type
+      - neodb_url
+    sort:
+      - property: shelf
+        direction: DESC
+    cardSize: 180
+    image: note.Cover_url
+    imageAspectRatio: 1.5
+  - type: cards
+    name: View 2
+    filters:
+      and:
+        - file.folder.startsWith("N-E-T-DB")
+    order:
+      - file.name
+      - shelf
+      - type
+      - neodb_url
+    sort:
+      - property: file.path
+        direction: DESC
+    cardSize: 210
+    image: note.Cover_url
+    imageAspectRatio: 1.45
+  - type: table
+    name: View 3
+    rowHeight: medium
+  - type: cms
+    name: View 4
+    filters:
+      and:
+        - file.hasTag("database")
+    order: []
+    cardSize: 260
+    titlePropertyHasNested: false
+    showTextPreview: true
+    descriptionPropertyHasNested: false
+    imageFormat: cover
+    imagePropertyHasNested: false
+    imageAspectRatio: 1
+    showDate: false
+    propertyLabels: above
+    hideQuickEditIcon: true
+    customizeNewButton: false
+    richContentPreview: true
+    richContentPreviewScroll: true
+    truncatePreviewProperty: false
+    descriptionMaxLines: 3
+    descriptionMaxLength: 50
+  - type: table
+    name: View 5
+    filters:
+      and:
+        - file.folder.startsWith("N-E-T-DB")
+        - and:
+            - file.folder.startsWith("N-E-T-DB/Fr3pass iiSU custom boxart")
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.basename
+      - shelf
+      - type
+      - neodb_url
+    sort:
+      - property: file.basename
+        direction: DESC
+    cardSize: 180
+    image: note.Cover_url
+    imageAspectRatio: 1.5
