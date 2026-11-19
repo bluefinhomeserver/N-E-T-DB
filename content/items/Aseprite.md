@@ -1,0 +1,31 @@
+---
+publish: true
+permalink: /items/Aseprite.md
+created: 2026-02-25T18:25:08.902Z
+modified: 2026-11-19T03:52:57.190Z
+tags:
+  - database
+cssclasses:
+  - background
+---
+
+---
+
+![cover](https://eggplant.place/m/item/fedi/2025/09/21/265b1572-51a4-4030-a8ab-eba9c3ca0907.jpg)
+
+## Description
+
+---
+
+Aseprite is a pixel art tool that lets you create 2D animations for videogames. Features
+Compose sprites using  layers & frames  as separated concepts
+Create images in  RGBA  or  Indexed  color modes
+Open/Save  GIF animations , sequence of PNG files, etc.
+A  timeline  where you can copy/move layers, frames, or specific images
+Animation tools: Real-time animation preview,  onion skinning , tag frames
+Pixel art tools: shading, pixel perfect strokes, RotSprite rotation, tiled mode, filled contour
+Export/import  sprite sheets
+A command line interface to automate conversion and sprite sheets generation
+Updates for the whole v1.x series up to v1.9.
+
+![background](https://eggplant.place/m/item/fedi/2025/09/21/265b1572-51a4-4030-a8ab-eba9c3ca0907.jpg)
